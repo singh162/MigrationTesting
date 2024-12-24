@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "676910b2344a6d4f0a7572a5_160e88ad-c07b-419e-aedd-4ba42dd14e67",
+  "gitSyncId": "676910b2344a6d4f0a7572a5_54182fe0-3bf3-4b29-819c-04707a029d04",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 480,
+          "bottomRow": 440,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 600,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 58,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 90,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "violationMain",
+    "slug": "violationmain"
   }
 }
